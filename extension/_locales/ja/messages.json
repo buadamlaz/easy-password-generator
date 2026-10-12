@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "かんたんパスワードジェネレーター",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "カスタマイズ可能なオプションで、どの入力欄からでも強力で安全なパスワードを瞬時に生成します。",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "パスワードを生成"
+  },
+  "panelTitle": {
+    "message": "かんたんパスワードジェネレーター"
+  },
+  "generatedPassword": {
+    "message": "生成されたパスワード"
+  },
+  "passwordLength": {
+    "message": "パスワードの長さ"
+  },
+  "characterOptions": {
+    "message": "文字オプション"
+  },
+  "uppercase": {
+    "message": "大文字 (A–Z)"
+  },
+  "lowercase": {
+    "message": "小文字 (a–z)"
+  },
+  "numbers": {
+    "message": "数字 (0–9)"
+  },
+  "symbols": {
+    "message": "記号 (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "紛らわしい文字を除外 (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "再生成"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "showHide": {
+    "message": "パスワードの表示/非表示"
+  },
+  "insertPassword": {
+    "message": "パスワードを挿入"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "copied": {
+    "message": "コピーしました！"
+  },
+  "copyFailed": {
+    "message": "コピーに失敗しました"
+  },
+  "strengthVeryWeak": {
+    "message": "非常に弱い"
+  },
+  "strengthWeak": {
+    "message": "弱い"
+  },
+  "strengthFair": {
+    "message": "普通"
+  },
+  "strengthStrong": {
+    "message": "強い"
+  },
+  "strengthVeryStrong": {
+    "message": "非常に強い"
+  },
+  "errorNoCategory": {
+    "message": "少なくとも1種類の文字を選択してください。"
+  },
+  "errorLengthShort": {
+    "message": "選択したすべての種類を含められるよう長さを増やしてください。"
+  },
+  "errorLength": {
+    "message": "長さは4〜128の範囲で指定してください。"
+  },
+  "errorGeneric": {
+    "message": "パスワードを生成できませんでした。"
+  },
+  "errorInsert": {
+    "message": "対象のフィールドは利用できなくなりました。"
+  },
+  "errorNoTarget": {
+    "message": "編集可能なフィールドが選択されていません。挿入するフィールドを右クリックしてください。"
+  }
+}

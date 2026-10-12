@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Łatwy generator haseł",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Twórz natychmiast silne i bezpieczne hasła z konfigurowalnymi opcjami, bezpośrednio z dowolnego pola wprowadzania.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Wygeneruj hasło"
+  },
+  "panelTitle": {
+    "message": "Łatwy generator haseł"
+  },
+  "generatedPassword": {
+    "message": "Wygenerowane hasło"
+  },
+  "passwordLength": {
+    "message": "Długość hasła"
+  },
+  "characterOptions": {
+    "message": "Opcje znaków"
+  },
+  "uppercase": {
+    "message": "Wielkie litery (A–Z)"
+  },
+  "lowercase": {
+    "message": "Małe litery (a–z)"
+  },
+  "numbers": {
+    "message": "Cyfry (0–9)"
+  },
+  "symbols": {
+    "message": "Znaki specjalne (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Wyklucz niejednoznaczne (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Wygeneruj ponownie"
+  },
+  "copy": {
+    "message": "Kopiuj"
+  },
+  "showHide": {
+    "message": "Pokaż lub ukryj hasło"
+  },
+  "insertPassword": {
+    "message": "Wstaw hasło"
+  },
+  "close": {
+    "message": "Zamknij"
+  },
+  "copied": {
+    "message": "Skopiowano!"
+  },
+  "copyFailed": {
+    "message": "Nie udało się skopiować"
+  },
+  "strengthVeryWeak": {
+    "message": "Bardzo słabe"
+  },
+  "strengthWeak": {
+    "message": "Słabe"
+  },
+  "strengthFair": {
+    "message": "Przeciętne"
+  },
+  "strengthStrong": {
+    "message": "Silne"
+  },
+  "strengthVeryStrong": {
+    "message": "Bardzo silne"
+  },
+  "errorNoCategory": {
+    "message": "Wybierz co najmniej jeden typ znaków."
+  },
+  "errorLengthShort": {
+    "message": "Zwiększ długość, aby zmieścić wszystkie wybrane typy."
+  },
+  "errorLength": {
+    "message": "Długość musi wynosić od 4 do 128."
+  },
+  "errorGeneric": {
+    "message": "Nie udało się wygenerować hasła."
+  },
+  "errorInsert": {
+    "message": "Pole docelowe nie jest już dostępne."
+  },
+  "errorNoTarget": {
+    "message": "Nie wybrano pola edytowalnego. Kliknij pole prawym przyciskiem myszy, aby wstawić."
+  }
+}

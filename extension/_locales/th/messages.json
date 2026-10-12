@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "เครื่องมือสร้างรหัสผ่านง่าย ๆ",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "สร้างรหัสผ่านที่แข็งแกร่งและปลอดภัยได้ทันทีด้วยตัวเลือกที่ปรับแต่งได้ จากช่องกรอกข้อมูลใดก็ได้",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "สร้างรหัสผ่าน"
+  },
+  "panelTitle": {
+    "message": "เครื่องมือสร้างรหัสผ่านง่าย ๆ"
+  },
+  "generatedPassword": {
+    "message": "รหัสผ่านที่สร้างขึ้น"
+  },
+  "passwordLength": {
+    "message": "ความยาวรหัสผ่าน"
+  },
+  "characterOptions": {
+    "message": "ตัวเลือกอักขระ"
+  },
+  "uppercase": {
+    "message": "ตัวพิมพ์ใหญ่ (A–Z)"
+  },
+  "lowercase": {
+    "message": "ตัวพิมพ์เล็ก (a–z)"
+  },
+  "numbers": {
+    "message": "ตัวเลข (0–9)"
+  },
+  "symbols": {
+    "message": "อักขระพิเศษ (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "ยกเว้นอักขระที่สับสน (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "สร้างใหม่"
+  },
+  "copy": {
+    "message": "คัดลอก"
+  },
+  "showHide": {
+    "message": "แสดงหรือซ่อนรหัสผ่าน"
+  },
+  "insertPassword": {
+    "message": "แทรกรหัสผ่าน"
+  },
+  "close": {
+    "message": "ปิด"
+  },
+  "copied": {
+    "message": "คัดลอกแล้ว!"
+  },
+  "copyFailed": {
+    "message": "คัดลอกไม่สำเร็จ"
+  },
+  "strengthVeryWeak": {
+    "message": "อ่อนแอมาก"
+  },
+  "strengthWeak": {
+    "message": "อ่อนแอ"
+  },
+  "strengthFair": {
+    "message": "พอใช้"
+  },
+  "strengthStrong": {
+    "message": "แข็งแกร่ง"
+  },
+  "strengthVeryStrong": {
+    "message": "แข็งแกร่งมาก"
+  },
+  "errorNoCategory": {
+    "message": "เลือกชนิดอักขระอย่างน้อยหนึ่งชนิด"
+  },
+  "errorLengthShort": {
+    "message": "เพิ่มความยาวเพื่อให้รองรับชนิดที่เลือกทั้งหมด"
+  },
+  "errorLength": {
+    "message": "ความยาวต้องอยู่ระหว่าง 4 ถึง 128"
+  },
+  "errorGeneric": {
+    "message": "ไม่สามารถสร้างรหัสผ่านได้"
+  },
+  "errorInsert": {
+    "message": "ช่องเป้าหมายไม่พร้อมใช้งานอีกต่อไป"
+  },
+  "errorNoTarget": {
+    "message": "ยังไม่ได้เลือกช่องที่แก้ไขได้ คลิกขวาที่ช่องเพื่อแทรก"
+  }
+}

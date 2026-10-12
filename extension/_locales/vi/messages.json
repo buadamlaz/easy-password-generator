@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Trình tạo mật khẩu dễ dàng",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Tạo ngay mật khẩu mạnh và an toàn với các tùy chọn tùy chỉnh, trực tiếp từ bất kỳ trường nhập liệu nào.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Tạo mật khẩu"
+  },
+  "panelTitle": {
+    "message": "Trình tạo mật khẩu dễ dàng"
+  },
+  "generatedPassword": {
+    "message": "Mật khẩu đã tạo"
+  },
+  "passwordLength": {
+    "message": "Độ dài mật khẩu"
+  },
+  "characterOptions": {
+    "message": "Tùy chọn ký tự"
+  },
+  "uppercase": {
+    "message": "Chữ hoa (A–Z)"
+  },
+  "lowercase": {
+    "message": "Chữ thường (a–z)"
+  },
+  "numbers": {
+    "message": "Chữ số (0–9)"
+  },
+  "symbols": {
+    "message": "Ký tự đặc biệt (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Loại trừ ký tự dễ nhầm (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Tạo lại"
+  },
+  "copy": {
+    "message": "Sao chép"
+  },
+  "showHide": {
+    "message": "Hiện hoặc ẩn mật khẩu"
+  },
+  "insertPassword": {
+    "message": "Chèn mật khẩu"
+  },
+  "close": {
+    "message": "Đóng"
+  },
+  "copied": {
+    "message": "Đã sao chép!"
+  },
+  "copyFailed": {
+    "message": "Sao chép thất bại"
+  },
+  "strengthVeryWeak": {
+    "message": "Rất yếu"
+  },
+  "strengthWeak": {
+    "message": "Yếu"
+  },
+  "strengthFair": {
+    "message": "Trung bình"
+  },
+  "strengthStrong": {
+    "message": "Mạnh"
+  },
+  "strengthVeryStrong": {
+    "message": "Rất mạnh"
+  },
+  "errorNoCategory": {
+    "message": "Chọn ít nhất một loại ký tự."
+  },
+  "errorLengthShort": {
+    "message": "Tăng độ dài để chứa tất cả các loại đã chọn."
+  },
+  "errorLength": {
+    "message": "Độ dài phải từ 4 đến 128."
+  },
+  "errorGeneric": {
+    "message": "Không thể tạo mật khẩu."
+  },
+  "errorInsert": {
+    "message": "Trường đích không còn khả dụng."
+  },
+  "errorNoTarget": {
+    "message": "Chưa chọn trường có thể chỉnh sửa. Nhấp chuột phải vào một trường để chèn."
+  }
+}

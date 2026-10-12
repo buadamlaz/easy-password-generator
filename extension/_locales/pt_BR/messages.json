@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Gerador de Senhas Fácil",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Gere senhas fortes e seguras instantaneamente com opções personalizáveis, direto de qualquer campo de entrada.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Gerar senha"
+  },
+  "panelTitle": {
+    "message": "Gerador de Senhas Fácil"
+  },
+  "generatedPassword": {
+    "message": "Senha gerada"
+  },
+  "passwordLength": {
+    "message": "Comprimento da senha"
+  },
+  "characterOptions": {
+    "message": "Opções de caracteres"
+  },
+  "uppercase": {
+    "message": "Maiúsculas (A–Z)"
+  },
+  "lowercase": {
+    "message": "Minúsculas (a–z)"
+  },
+  "numbers": {
+    "message": "Números (0–9)"
+  },
+  "symbols": {
+    "message": "Especiais (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Excluir ambíguos (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Gerar novamente"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "showHide": {
+    "message": "Mostrar ou ocultar a senha"
+  },
+  "insertPassword": {
+    "message": "Inserir senha"
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "copied": {
+    "message": "Copiado!"
+  },
+  "copyFailed": {
+    "message": "Falha ao copiar"
+  },
+  "strengthVeryWeak": {
+    "message": "Muito fraca"
+  },
+  "strengthWeak": {
+    "message": "Fraca"
+  },
+  "strengthFair": {
+    "message": "Razoável"
+  },
+  "strengthStrong": {
+    "message": "Forte"
+  },
+  "strengthVeryStrong": {
+    "message": "Muito forte"
+  },
+  "errorNoCategory": {
+    "message": "Selecione pelo menos um tipo de caractere."
+  },
+  "errorLengthShort": {
+    "message": "Aumente o comprimento para incluir todos os tipos selecionados."
+  },
+  "errorLength": {
+    "message": "O comprimento deve estar entre 4 e 128."
+  },
+  "errorGeneric": {
+    "message": "Não foi possível gerar uma senha."
+  },
+  "errorInsert": {
+    "message": "O campo de destino não está mais disponível."
+  },
+  "errorNoTarget": {
+    "message": "Nenhum campo editável selecionado. Clique com o botão direito em um campo para inserir."
+  }
+}

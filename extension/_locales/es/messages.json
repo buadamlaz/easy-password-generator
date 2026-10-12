@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Generador de Contraseñas Fácil",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Genera contraseñas fuertes y seguras al instante con opciones personalizables, directamente desde cualquier campo de entrada.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Generar contraseña"
+  },
+  "panelTitle": {
+    "message": "Generador de Contraseñas Fácil"
+  },
+  "generatedPassword": {
+    "message": "Contraseña generada"
+  },
+  "passwordLength": {
+    "message": "Longitud de la contraseña"
+  },
+  "characterOptions": {
+    "message": "Opciones de caracteres"
+  },
+  "uppercase": {
+    "message": "Mayúsculas (A–Z)"
+  },
+  "lowercase": {
+    "message": "Minúsculas (a–z)"
+  },
+  "numbers": {
+    "message": "Números (0–9)"
+  },
+  "symbols": {
+    "message": "Especiales (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Excluir ambiguos (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Regenerar"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "showHide": {
+    "message": "Mostrar u ocultar la contraseña"
+  },
+  "insertPassword": {
+    "message": "Insertar contraseña"
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "copied": {
+    "message": "¡Copiado!"
+  },
+  "copyFailed": {
+    "message": "Error al copiar"
+  },
+  "strengthVeryWeak": {
+    "message": "Muy débil"
+  },
+  "strengthWeak": {
+    "message": "Débil"
+  },
+  "strengthFair": {
+    "message": "Aceptable"
+  },
+  "strengthStrong": {
+    "message": "Fuerte"
+  },
+  "strengthVeryStrong": {
+    "message": "Muy fuerte"
+  },
+  "errorNoCategory": {
+    "message": "Selecciona al menos un tipo de carácter."
+  },
+  "errorLengthShort": {
+    "message": "Aumenta la longitud para incluir todos los tipos seleccionados."
+  },
+  "errorLength": {
+    "message": "La longitud debe estar entre 4 y 128."
+  },
+  "errorGeneric": {
+    "message": "No se pudo generar una contraseña."
+  },
+  "errorInsert": {
+    "message": "El campo de destino ya no está disponible."
+  },
+  "errorNoTarget": {
+    "message": "No hay ningún campo editable seleccionado. Haz clic derecho en un campo para insertar."
+  }
+}

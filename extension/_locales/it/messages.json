@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Generatore di password facile",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Genera istantaneamente password forti e sicure con opzioni personalizzabili, direttamente da qualsiasi campo di input.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Genera password"
+  },
+  "panelTitle": {
+    "message": "Generatore di password facile"
+  },
+  "generatedPassword": {
+    "message": "Password generata"
+  },
+  "passwordLength": {
+    "message": "Lunghezza della password"
+  },
+  "characterOptions": {
+    "message": "Opzioni dei caratteri"
+  },
+  "uppercase": {
+    "message": "Maiuscole (A–Z)"
+  },
+  "lowercase": {
+    "message": "Minuscole (a–z)"
+  },
+  "numbers": {
+    "message": "Numeri (0–9)"
+  },
+  "symbols": {
+    "message": "Speciali (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Escludi ambigui (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Rigenera"
+  },
+  "copy": {
+    "message": "Copia"
+  },
+  "showHide": {
+    "message": "Mostra o nascondi la password"
+  },
+  "insertPassword": {
+    "message": "Inserisci password"
+  },
+  "close": {
+    "message": "Chiudi"
+  },
+  "copied": {
+    "message": "Copiato!"
+  },
+  "copyFailed": {
+    "message": "Copia non riuscita"
+  },
+  "strengthVeryWeak": {
+    "message": "Molto debole"
+  },
+  "strengthWeak": {
+    "message": "Debole"
+  },
+  "strengthFair": {
+    "message": "Discreta"
+  },
+  "strengthStrong": {
+    "message": "Forte"
+  },
+  "strengthVeryStrong": {
+    "message": "Molto forte"
+  },
+  "errorNoCategory": {
+    "message": "Seleziona almeno un tipo di carattere."
+  },
+  "errorLengthShort": {
+    "message": "Aumenta la lunghezza per includere tutti i tipi selezionati."
+  },
+  "errorLength": {
+    "message": "La lunghezza deve essere compresa tra 4 e 128."
+  },
+  "errorGeneric": {
+    "message": "Impossibile generare una password."
+  },
+  "errorInsert": {
+    "message": "Il campo di destinazione non è più disponibile."
+  },
+  "errorNoTarget": {
+    "message": "Nessun campo modificabile selezionato. Fai clic con il tasto destro su un campo per inserire."
+  }
+}

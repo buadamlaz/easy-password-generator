@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Easy Password Generator",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Generate strong, secure passwords instantly with customizable options, right from any input field.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Generate Password"
+  },
+  "panelTitle": {
+    "message": "Easy Password Generator"
+  },
+  "generatedPassword": {
+    "message": "Generated Password"
+  },
+  "passwordLength": {
+    "message": "Password Length"
+  },
+  "characterOptions": {
+    "message": "Character Options"
+  },
+  "uppercase": {
+    "message": "Uppercase (A–Z)"
+  },
+  "lowercase": {
+    "message": "Lowercase (a–z)"
+  },
+  "numbers": {
+    "message": "Numbers (0–9)"
+  },
+  "symbols": {
+    "message": "Special (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Exclude ambiguous (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Regenerate"
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "showHide": {
+    "message": "Show or hide password"
+  },
+  "insertPassword": {
+    "message": "Insert Password"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "copied": {
+    "message": "Copied!"
+  },
+  "copyFailed": {
+    "message": "Copy failed"
+  },
+  "strengthVeryWeak": {
+    "message": "Very Weak"
+  },
+  "strengthWeak": {
+    "message": "Weak"
+  },
+  "strengthFair": {
+    "message": "Fair"
+  },
+  "strengthStrong": {
+    "message": "Strong"
+  },
+  "strengthVeryStrong": {
+    "message": "Very Strong"
+  },
+  "errorNoCategory": {
+    "message": "Select at least one character type."
+  },
+  "errorLengthShort": {
+    "message": "Increase length to fit all selected types."
+  },
+  "errorLength": {
+    "message": "Length must be between 4 and 128."
+  },
+  "errorGeneric": {
+    "message": "Could not generate a password."
+  },
+  "errorInsert": {
+    "message": "The target field is no longer available."
+  },
+  "errorNoTarget": {
+    "message": "No editable field selected. Right-click a field to insert."
+  }
+}

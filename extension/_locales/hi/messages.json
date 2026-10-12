@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "आसान पासवर्ड जनरेटर",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "किसी भी इनपुट फ़ील्ड से, अनुकूलन-योग्य विकल्पों के साथ तुरंत मज़बूत और सुरक्षित पासवर्ड बनाएँ।",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "पासवर्ड बनाएँ"
+  },
+  "panelTitle": {
+    "message": "आसान पासवर्ड जनरेटर"
+  },
+  "generatedPassword": {
+    "message": "बनाया गया पासवर्ड"
+  },
+  "passwordLength": {
+    "message": "पासवर्ड की लंबाई"
+  },
+  "characterOptions": {
+    "message": "वर्ण विकल्प"
+  },
+  "uppercase": {
+    "message": "बड़े अक्षर (A–Z)"
+  },
+  "lowercase": {
+    "message": "छोटे अक्षर (a–z)"
+  },
+  "numbers": {
+    "message": "संख्याएँ (0–9)"
+  },
+  "symbols": {
+    "message": "विशेष वर्ण (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "अस्पष्ट वर्ण हटाएँ (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "पुनः बनाएँ"
+  },
+  "copy": {
+    "message": "कॉपी करें"
+  },
+  "showHide": {
+    "message": "पासवर्ड दिखाएँ या छिपाएँ"
+  },
+  "insertPassword": {
+    "message": "पासवर्ड डालें"
+  },
+  "close": {
+    "message": "बंद करें"
+  },
+  "copied": {
+    "message": "कॉपी किया गया!"
+  },
+  "copyFailed": {
+    "message": "कॉपी विफल"
+  },
+  "strengthVeryWeak": {
+    "message": "बहुत कमज़ोर"
+  },
+  "strengthWeak": {
+    "message": "कमज़ोर"
+  },
+  "strengthFair": {
+    "message": "ठीक-ठाक"
+  },
+  "strengthStrong": {
+    "message": "मज़बूत"
+  },
+  "strengthVeryStrong": {
+    "message": "बहुत मज़बूत"
+  },
+  "errorNoCategory": {
+    "message": "कम से कम एक वर्ण प्रकार चुनें।"
+  },
+  "errorLengthShort": {
+    "message": "सभी चयनित प्रकारों को समाने के लिए लंबाई बढ़ाएँ।"
+  },
+  "errorLength": {
+    "message": "लंबाई 4 और 128 के बीच होनी चाहिए।"
+  },
+  "errorGeneric": {
+    "message": "पासवर्ड नहीं बनाया जा सका।"
+  },
+  "errorInsert": {
+    "message": "लक्ष्य फ़ील्ड अब उपलब्ध नहीं है।"
+  },
+  "errorNoTarget": {
+    "message": "कोई संपादन योग्य फ़ील्ड चयनित नहीं है। डालने के लिए किसी फ़ील्ड पर राइट-क्लिक करें।"
+  }
+}

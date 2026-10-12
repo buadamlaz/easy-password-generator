@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Eenvoudige wachtwoordgenerator",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Genereer direct sterke, veilige wachtwoorden met aanpasbare opties, rechtstreeks vanuit elk invoerveld.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Wachtwoord genereren"
+  },
+  "panelTitle": {
+    "message": "Eenvoudige wachtwoordgenerator"
+  },
+  "generatedPassword": {
+    "message": "Gegenereerd wachtwoord"
+  },
+  "passwordLength": {
+    "message": "Wachtwoordlengte"
+  },
+  "characterOptions": {
+    "message": "Tekenopties"
+  },
+  "uppercase": {
+    "message": "Hoofdletters (A–Z)"
+  },
+  "lowercase": {
+    "message": "Kleine letters (a–z)"
+  },
+  "numbers": {
+    "message": "Cijfers (0–9)"
+  },
+  "symbols": {
+    "message": "Speciale tekens (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Dubbelzinnige uitsluiten (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Opnieuw genereren"
+  },
+  "copy": {
+    "message": "Kopiëren"
+  },
+  "showHide": {
+    "message": "Wachtwoord tonen of verbergen"
+  },
+  "insertPassword": {
+    "message": "Wachtwoord invoegen"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "copied": {
+    "message": "Gekopieerd!"
+  },
+  "copyFailed": {
+    "message": "Kopiëren mislukt"
+  },
+  "strengthVeryWeak": {
+    "message": "Zeer zwak"
+  },
+  "strengthWeak": {
+    "message": "Zwak"
+  },
+  "strengthFair": {
+    "message": "Redelijk"
+  },
+  "strengthStrong": {
+    "message": "Sterk"
+  },
+  "strengthVeryStrong": {
+    "message": "Zeer sterk"
+  },
+  "errorNoCategory": {
+    "message": "Selecteer minstens één tekentype."
+  },
+  "errorLengthShort": {
+    "message": "Verhoog de lengte om alle geselecteerde typen te laten passen."
+  },
+  "errorLength": {
+    "message": "De lengte moet tussen 4 en 128 liggen."
+  },
+  "errorGeneric": {
+    "message": "Kon geen wachtwoord genereren."
+  },
+  "errorInsert": {
+    "message": "Het doelveld is niet meer beschikbaar."
+  },
+  "errorNoTarget": {
+    "message": "Geen bewerkbaar veld geselecteerd. Klik met de rechtermuisknop op een veld om in te voegen."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Snadný generátor hesel",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Okamžitě vytvářejte silná a bezpečná hesla s přizpůsobitelnými možnostmi přímo z libovolného vstupního pole.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Vygenerovat heslo"
+  },
+  "panelTitle": {
+    "message": "Snadný generátor hesel"
+  },
+  "generatedPassword": {
+    "message": "Vygenerované heslo"
+  },
+  "passwordLength": {
+    "message": "Délka hesla"
+  },
+  "characterOptions": {
+    "message": "Možnosti znaků"
+  },
+  "uppercase": {
+    "message": "Velká písmena (A–Z)"
+  },
+  "lowercase": {
+    "message": "Malá písmena (a–z)"
+  },
+  "numbers": {
+    "message": "Číslice (0–9)"
+  },
+  "symbols": {
+    "message": "Speciální znaky (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Vyloučit nejednoznačné (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Vygenerovat znovu"
+  },
+  "copy": {
+    "message": "Kopírovat"
+  },
+  "showHide": {
+    "message": "Zobrazit nebo skrýt heslo"
+  },
+  "insertPassword": {
+    "message": "Vložit heslo"
+  },
+  "close": {
+    "message": "Zavřít"
+  },
+  "copied": {
+    "message": "Zkopírováno!"
+  },
+  "copyFailed": {
+    "message": "Kopírování se nezdařilo"
+  },
+  "strengthVeryWeak": {
+    "message": "Velmi slabé"
+  },
+  "strengthWeak": {
+    "message": "Slabé"
+  },
+  "strengthFair": {
+    "message": "Průměrné"
+  },
+  "strengthStrong": {
+    "message": "Silné"
+  },
+  "strengthVeryStrong": {
+    "message": "Velmi silné"
+  },
+  "errorNoCategory": {
+    "message": "Vyberte alespoň jeden typ znaků."
+  },
+  "errorLengthShort": {
+    "message": "Zvyšte délku, aby se vešly všechny vybrané typy."
+  },
+  "errorLength": {
+    "message": "Délka musí být mezi 4 a 128."
+  },
+  "errorGeneric": {
+    "message": "Heslo se nepodařilo vygenerovat."
+  },
+  "errorInsert": {
+    "message": "Cílové pole již není k dispozici."
+  },
+  "errorNoTarget": {
+    "message": "Není vybráno žádné upravitelné pole. Vložíte kliknutím pravým tlačítkem na pole."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Enkel lösenordsgenerator",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Skapa starka, säkra lösenord direkt med anpassningsbara alternativ – från valfritt inmatningsfält.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Generera lösenord"
+  },
+  "panelTitle": {
+    "message": "Enkel lösenordsgenerator"
+  },
+  "generatedPassword": {
+    "message": "Genererat lösenord"
+  },
+  "passwordLength": {
+    "message": "Lösenordslängd"
+  },
+  "characterOptions": {
+    "message": "Teckenalternativ"
+  },
+  "uppercase": {
+    "message": "Versaler (A–Z)"
+  },
+  "lowercase": {
+    "message": "Gemener (a–z)"
+  },
+  "numbers": {
+    "message": "Siffror (0–9)"
+  },
+  "symbols": {
+    "message": "Specialtecken (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Uteslut tvetydiga (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Generera igen"
+  },
+  "copy": {
+    "message": "Kopiera"
+  },
+  "showHide": {
+    "message": "Visa eller dölj lösenord"
+  },
+  "insertPassword": {
+    "message": "Infoga lösenord"
+  },
+  "close": {
+    "message": "Stäng"
+  },
+  "copied": {
+    "message": "Kopierat!"
+  },
+  "copyFailed": {
+    "message": "Kopieringen misslyckades"
+  },
+  "strengthVeryWeak": {
+    "message": "Mycket svagt"
+  },
+  "strengthWeak": {
+    "message": "Svagt"
+  },
+  "strengthFair": {
+    "message": "Godtagbart"
+  },
+  "strengthStrong": {
+    "message": "Starkt"
+  },
+  "strengthVeryStrong": {
+    "message": "Mycket starkt"
+  },
+  "errorNoCategory": {
+    "message": "Välj minst en teckentyp."
+  },
+  "errorLengthShort": {
+    "message": "Öka längden så att alla valda typer får plats."
+  },
+  "errorLength": {
+    "message": "Längden måste vara mellan 4 och 128."
+  },
+  "errorGeneric": {
+    "message": "Det gick inte att generera ett lösenord."
+  },
+  "errorInsert": {
+    "message": "Målfältet är inte längre tillgängligt."
+  },
+  "errorNoTarget": {
+    "message": "Inget redigerbart fält valt. Högerklicka på ett fält för att infoga."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Εύκολη γεννήτρια κωδικών",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Δημιουργήστε άμεσα ισχυρούς και ασφαλείς κωδικούς με παραμετροποιήσιμες επιλογές, απευθείας από οποιοδήποτε πεδίο εισαγωγής.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Δημιουργία κωδικού"
+  },
+  "panelTitle": {
+    "message": "Εύκολη γεννήτρια κωδικών"
+  },
+  "generatedPassword": {
+    "message": "Κωδικός που δημιουργήθηκε"
+  },
+  "passwordLength": {
+    "message": "Μήκος κωδικού"
+  },
+  "characterOptions": {
+    "message": "Επιλογές χαρακτήρων"
+  },
+  "uppercase": {
+    "message": "Κεφαλαία (A–Z)"
+  },
+  "lowercase": {
+    "message": "Πεζά (a–z)"
+  },
+  "numbers": {
+    "message": "Αριθμοί (0–9)"
+  },
+  "symbols": {
+    "message": "Ειδικοί (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Εξαίρεση διφορούμενων (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Επαναδημιουργία"
+  },
+  "copy": {
+    "message": "Αντιγραφή"
+  },
+  "showHide": {
+    "message": "Εμφάνιση ή απόκρυψη κωδικού"
+  },
+  "insertPassword": {
+    "message": "Εισαγωγή κωδικού"
+  },
+  "close": {
+    "message": "Κλείσιμο"
+  },
+  "copied": {
+    "message": "Αντιγράφηκε!"
+  },
+  "copyFailed": {
+    "message": "Η αντιγραφή απέτυχε"
+  },
+  "strengthVeryWeak": {
+    "message": "Πολύ αδύναμος"
+  },
+  "strengthWeak": {
+    "message": "Αδύναμος"
+  },
+  "strengthFair": {
+    "message": "Μέτριος"
+  },
+  "strengthStrong": {
+    "message": "Ισχυρός"
+  },
+  "strengthVeryStrong": {
+    "message": "Πολύ ισχυρός"
+  },
+  "errorNoCategory": {
+    "message": "Επιλέξτε τουλάχιστον έναν τύπο χαρακτήρων."
+  },
+  "errorLengthShort": {
+    "message": "Αυξήστε το μήκος για να χωρέσουν όλοι οι επιλεγμένοι τύποι."
+  },
+  "errorLength": {
+    "message": "Το μήκος πρέπει να είναι μεταξύ 4 και 128."
+  },
+  "errorGeneric": {
+    "message": "Δεν ήταν δυνατή η δημιουργία κωδικού."
+  },
+  "errorInsert": {
+    "message": "Το πεδίο προορισμού δεν είναι πλέον διαθέσιμο."
+  },
+  "errorNoTarget": {
+    "message": "Δεν έχει επιλεγεί επεξεργάσιμο πεδίο. Κάντε δεξί κλικ σε ένα πεδίο για εισαγωγή."
+  }
+}

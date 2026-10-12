@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Einfacher Passwortgenerator",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Erstelle sofort starke, sichere Passwörter mit anpassbaren Optionen – direkt aus jedem Eingabefeld.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Passwort generieren"
+  },
+  "panelTitle": {
+    "message": "Einfacher Passwortgenerator"
+  },
+  "generatedPassword": {
+    "message": "Generiertes Passwort"
+  },
+  "passwordLength": {
+    "message": "Passwortlänge"
+  },
+  "characterOptions": {
+    "message": "Zeichenoptionen"
+  },
+  "uppercase": {
+    "message": "Großbuchstaben (A–Z)"
+  },
+  "lowercase": {
+    "message": "Kleinbuchstaben (a–z)"
+  },
+  "numbers": {
+    "message": "Zahlen (0–9)"
+  },
+  "symbols": {
+    "message": "Sonderzeichen (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Mehrdeutige ausschließen (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Neu generieren"
+  },
+  "copy": {
+    "message": "Kopieren"
+  },
+  "showHide": {
+    "message": "Passwort anzeigen oder ausblenden"
+  },
+  "insertPassword": {
+    "message": "Passwort einfügen"
+  },
+  "close": {
+    "message": "Schließen"
+  },
+  "copied": {
+    "message": "Kopiert!"
+  },
+  "copyFailed": {
+    "message": "Kopieren fehlgeschlagen"
+  },
+  "strengthVeryWeak": {
+    "message": "Sehr schwach"
+  },
+  "strengthWeak": {
+    "message": "Schwach"
+  },
+  "strengthFair": {
+    "message": "Mittel"
+  },
+  "strengthStrong": {
+    "message": "Stark"
+  },
+  "strengthVeryStrong": {
+    "message": "Sehr stark"
+  },
+  "errorNoCategory": {
+    "message": "Wähle mindestens einen Zeichentyp aus."
+  },
+  "errorLengthShort": {
+    "message": "Erhöhe die Länge, damit alle ausgewählten Typen passen."
+  },
+  "errorLength": {
+    "message": "Die Länge muss zwischen 4 und 128 liegen."
+  },
+  "errorGeneric": {
+    "message": "Passwort konnte nicht generiert werden."
+  },
+  "errorInsert": {
+    "message": "Das Zielfeld ist nicht mehr verfügbar."
+  },
+  "errorNoTarget": {
+    "message": "Kein bearbeitbares Feld ausgewählt. Rechtsklick auf ein Feld zum Einfügen."
+  }
+}

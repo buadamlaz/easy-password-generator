@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Простой генератор паролей",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Мгновенно создавайте надёжные и безопасные пароли с настраиваемыми параметрами прямо из любого поля ввода.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Создать пароль"
+  },
+  "panelTitle": {
+    "message": "Простой генератор паролей"
+  },
+  "generatedPassword": {
+    "message": "Сгенерированный пароль"
+  },
+  "passwordLength": {
+    "message": "Длина пароля"
+  },
+  "characterOptions": {
+    "message": "Параметры символов"
+  },
+  "uppercase": {
+    "message": "Прописные буквы (A–Z)"
+  },
+  "lowercase": {
+    "message": "Строчные буквы (a–z)"
+  },
+  "numbers": {
+    "message": "Цифры (0–9)"
+  },
+  "symbols": {
+    "message": "Спецсимволы (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Исключить неоднозначные (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Сгенерировать заново"
+  },
+  "copy": {
+    "message": "Копировать"
+  },
+  "showHide": {
+    "message": "Показать или скрыть пароль"
+  },
+  "insertPassword": {
+    "message": "Вставить пароль"
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "copied": {
+    "message": "Скопировано!"
+  },
+  "copyFailed": {
+    "message": "Не удалось скопировать"
+  },
+  "strengthVeryWeak": {
+    "message": "Очень слабый"
+  },
+  "strengthWeak": {
+    "message": "Слабый"
+  },
+  "strengthFair": {
+    "message": "Средний"
+  },
+  "strengthStrong": {
+    "message": "Надёжный"
+  },
+  "strengthVeryStrong": {
+    "message": "Очень надёжный"
+  },
+  "errorNoCategory": {
+    "message": "Выберите хотя бы один тип символов."
+  },
+  "errorLengthShort": {
+    "message": "Увеличьте длину, чтобы вместить все выбранные типы."
+  },
+  "errorLength": {
+    "message": "Длина должна быть от 4 до 128."
+  },
+  "errorGeneric": {
+    "message": "Не удалось сгенерировать пароль."
+  },
+  "errorInsert": {
+    "message": "Целевое поле больше недоступно."
+  },
+  "errorNoTarget": {
+    "message": "Редактируемое поле не выбрано. Щёлкните поле правой кнопкой мыши, чтобы вставить."
+  }
+}

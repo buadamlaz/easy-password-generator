@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "简易密码生成器",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "通过可自定义的选项，直接在任意输入框即时生成强大而安全的密码。",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "生成密码"
+  },
+  "panelTitle": {
+    "message": "简易密码生成器"
+  },
+  "generatedPassword": {
+    "message": "生成的密码"
+  },
+  "passwordLength": {
+    "message": "密码长度"
+  },
+  "characterOptions": {
+    "message": "字符选项"
+  },
+  "uppercase": {
+    "message": "大写字母 (A–Z)"
+  },
+  "lowercase": {
+    "message": "小写字母 (a–z)"
+  },
+  "numbers": {
+    "message": "数字 (0–9)"
+  },
+  "symbols": {
+    "message": "特殊字符 (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "排除易混淆字符 (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "重新生成"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "showHide": {
+    "message": "显示或隐藏密码"
+  },
+  "insertPassword": {
+    "message": "插入密码"
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "copied": {
+    "message": "已复制！"
+  },
+  "copyFailed": {
+    "message": "复制失败"
+  },
+  "strengthVeryWeak": {
+    "message": "非常弱"
+  },
+  "strengthWeak": {
+    "message": "弱"
+  },
+  "strengthFair": {
+    "message": "一般"
+  },
+  "strengthStrong": {
+    "message": "强"
+  },
+  "strengthVeryStrong": {
+    "message": "非常强"
+  },
+  "errorNoCategory": {
+    "message": "请至少选择一种字符类型。"
+  },
+  "errorLengthShort": {
+    "message": "请增加长度以容纳所有所选类型。"
+  },
+  "errorLength": {
+    "message": "长度必须在 4 到 128 之间。"
+  },
+  "errorGeneric": {
+    "message": "无法生成密码。"
+  },
+  "errorInsert": {
+    "message": "目标输入框已不可用。"
+  },
+  "errorNoTarget": {
+    "message": "未选择可编辑的输入框。右键点击输入框以插入。"
+  }
+}

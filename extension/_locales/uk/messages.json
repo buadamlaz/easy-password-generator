@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Простий генератор паролів",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Миттєво створюйте надійні та безпечні паролі з налаштовуваними параметрами прямо з будь-якого поля введення.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Згенерувати пароль"
+  },
+  "panelTitle": {
+    "message": "Простий генератор паролів"
+  },
+  "generatedPassword": {
+    "message": "Згенерований пароль"
+  },
+  "passwordLength": {
+    "message": "Довжина пароля"
+  },
+  "characterOptions": {
+    "message": "Параметри символів"
+  },
+  "uppercase": {
+    "message": "Великі літери (A–Z)"
+  },
+  "lowercase": {
+    "message": "Малі літери (a–z)"
+  },
+  "numbers": {
+    "message": "Цифри (0–9)"
+  },
+  "symbols": {
+    "message": "Спецсимволи (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Виключити неоднозначні (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Згенерувати знову"
+  },
+  "copy": {
+    "message": "Копіювати"
+  },
+  "showHide": {
+    "message": "Показати або сховати пароль"
+  },
+  "insertPassword": {
+    "message": "Вставити пароль"
+  },
+  "close": {
+    "message": "Закрити"
+  },
+  "copied": {
+    "message": "Скопійовано!"
+  },
+  "copyFailed": {
+    "message": "Не вдалося скопіювати"
+  },
+  "strengthVeryWeak": {
+    "message": "Дуже слабкий"
+  },
+  "strengthWeak": {
+    "message": "Слабкий"
+  },
+  "strengthFair": {
+    "message": "Середній"
+  },
+  "strengthStrong": {
+    "message": "Надійний"
+  },
+  "strengthVeryStrong": {
+    "message": "Дуже надійний"
+  },
+  "errorNoCategory": {
+    "message": "Виберіть принаймні один тип символів."
+  },
+  "errorLengthShort": {
+    "message": "Збільшіть довжину, щоб умістити всі вибрані типи."
+  },
+  "errorLength": {
+    "message": "Довжина має бути від 4 до 128."
+  },
+  "errorGeneric": {
+    "message": "Не вдалося згенерувати пароль."
+  },
+  "errorInsert": {
+    "message": "Цільове поле більше недоступне."
+  },
+  "errorNoTarget": {
+    "message": "Не вибрано редагованого поля. Клацніть поле правою кнопкою миші, щоб вставити."
+  }
+}

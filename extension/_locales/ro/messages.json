@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Generator de parole simplu",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Generează instantaneu parole puternice și sigure cu opțiuni personalizabile, direct din orice câmp de introducere.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Generează parolă"
+  },
+  "panelTitle": {
+    "message": "Generator de parole simplu"
+  },
+  "generatedPassword": {
+    "message": "Parolă generată"
+  },
+  "passwordLength": {
+    "message": "Lungimea parolei"
+  },
+  "characterOptions": {
+    "message": "Opțiuni pentru caractere"
+  },
+  "uppercase": {
+    "message": "Majuscule (A–Z)"
+  },
+  "lowercase": {
+    "message": "Minuscule (a–z)"
+  },
+  "numbers": {
+    "message": "Numere (0–9)"
+  },
+  "symbols": {
+    "message": "Speciale (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Exclude caracterele ambigue (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Regenerează"
+  },
+  "copy": {
+    "message": "Copiază"
+  },
+  "showHide": {
+    "message": "Afișează sau ascunde parola"
+  },
+  "insertPassword": {
+    "message": "Inserează parola"
+  },
+  "close": {
+    "message": "Închide"
+  },
+  "copied": {
+    "message": "Copiat!"
+  },
+  "copyFailed": {
+    "message": "Copierea a eșuat"
+  },
+  "strengthVeryWeak": {
+    "message": "Foarte slabă"
+  },
+  "strengthWeak": {
+    "message": "Slabă"
+  },
+  "strengthFair": {
+    "message": "Acceptabilă"
+  },
+  "strengthStrong": {
+    "message": "Puternică"
+  },
+  "strengthVeryStrong": {
+    "message": "Foarte puternică"
+  },
+  "errorNoCategory": {
+    "message": "Selectează cel puțin un tip de caracter."
+  },
+  "errorLengthShort": {
+    "message": "Mărește lungimea pentru a încadra toate tipurile selectate."
+  },
+  "errorLength": {
+    "message": "Lungimea trebuie să fie între 4 și 128."
+  },
+  "errorGeneric": {
+    "message": "Parola nu a putut fi generată."
+  },
+  "errorInsert": {
+    "message": "Câmpul țintă nu mai este disponibil."
+  },
+  "errorNoTarget": {
+    "message": "Niciun câmp editabil selectat. Fă clic dreapta pe un câmp pentru a insera."
+  }
+}

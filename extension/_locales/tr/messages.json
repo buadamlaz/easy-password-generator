@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Kolay Parola Üretici",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Herhangi bir giriş alanından, özelleştirilebilir seçeneklerle anında güçlü ve güvenli parolalar oluşturun.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Parola Oluştur"
+  },
+  "panelTitle": {
+    "message": "Kolay Parola Üretici"
+  },
+  "generatedPassword": {
+    "message": "Oluşturulan Parola"
+  },
+  "passwordLength": {
+    "message": "Parola Uzunluğu"
+  },
+  "characterOptions": {
+    "message": "Karakter Seçenekleri"
+  },
+  "uppercase": {
+    "message": "Büyük Harf (A–Z)"
+  },
+  "lowercase": {
+    "message": "Küçük Harf (a–z)"
+  },
+  "numbers": {
+    "message": "Rakamlar (0–9)"
+  },
+  "symbols": {
+    "message": "Özel (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Belirsizleri hariç tut (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Yeniden Oluştur"
+  },
+  "copy": {
+    "message": "Kopyala"
+  },
+  "showHide": {
+    "message": "Parolayı göster veya gizle"
+  },
+  "insertPassword": {
+    "message": "Parolayı Ekle"
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "copied": {
+    "message": "Kopyalandı!"
+  },
+  "copyFailed": {
+    "message": "Kopyalama başarısız"
+  },
+  "strengthVeryWeak": {
+    "message": "Çok Zayıf"
+  },
+  "strengthWeak": {
+    "message": "Zayıf"
+  },
+  "strengthFair": {
+    "message": "Orta"
+  },
+  "strengthStrong": {
+    "message": "Güçlü"
+  },
+  "strengthVeryStrong": {
+    "message": "Çok Güçlü"
+  },
+  "errorNoCategory": {
+    "message": "En az bir karakter türü seçin."
+  },
+  "errorLengthShort": {
+    "message": "Seçili tüm türleri sığdırmak için uzunluğu artırın."
+  },
+  "errorLength": {
+    "message": "Uzunluk 4 ile 128 arasında olmalıdır."
+  },
+  "errorGeneric": {
+    "message": "Parola oluşturulamadı."
+  },
+  "errorInsert": {
+    "message": "Hedef alan artık kullanılamıyor."
+  },
+  "errorNoTarget": {
+    "message": "Seçili düzenlenebilir alan yok. Eklemek için bir alana sağ tıklayın."
+  }
+}

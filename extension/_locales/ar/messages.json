@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "مولّد كلمات المرور السهل",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "أنشئ كلمات مرور قوية وآمنة فورًا بخيارات قابلة للتخصيص، مباشرةً من أي حقل إدخال.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "إنشاء كلمة مرور"
+  },
+  "panelTitle": {
+    "message": "مولّد كلمات المرور السهل"
+  },
+  "generatedPassword": {
+    "message": "كلمة المرور المُنشأة"
+  },
+  "passwordLength": {
+    "message": "طول كلمة المرور"
+  },
+  "characterOptions": {
+    "message": "خيارات الأحرف"
+  },
+  "uppercase": {
+    "message": "أحرف كبيرة (A–Z)"
+  },
+  "lowercase": {
+    "message": "أحرف صغيرة (a–z)"
+  },
+  "numbers": {
+    "message": "أرقام (0–9)"
+  },
+  "symbols": {
+    "message": "رموز خاصة (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "استبعاد الأحرف الملتبسة (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "إعادة الإنشاء"
+  },
+  "copy": {
+    "message": "نسخ"
+  },
+  "showHide": {
+    "message": "إظهار أو إخفاء كلمة المرور"
+  },
+  "insertPassword": {
+    "message": "إدراج كلمة المرور"
+  },
+  "close": {
+    "message": "إغلاق"
+  },
+  "copied": {
+    "message": "تم النسخ!"
+  },
+  "copyFailed": {
+    "message": "فشل النسخ"
+  },
+  "strengthVeryWeak": {
+    "message": "ضعيفة جدًا"
+  },
+  "strengthWeak": {
+    "message": "ضعيفة"
+  },
+  "strengthFair": {
+    "message": "متوسطة"
+  },
+  "strengthStrong": {
+    "message": "قوية"
+  },
+  "strengthVeryStrong": {
+    "message": "قوية جدًا"
+  },
+  "errorNoCategory": {
+    "message": "اختر نوع حرف واحدًا على الأقل."
+  },
+  "errorLengthShort": {
+    "message": "زد الطول ليتسع لجميع الأنواع المحددة."
+  },
+  "errorLength": {
+    "message": "يجب أن يتراوح الطول بين 4 و128."
+  },
+  "errorGeneric": {
+    "message": "تعذّر إنشاء كلمة مرور."
+  },
+  "errorInsert": {
+    "message": "حقل الهدف لم يعد متاحًا."
+  },
+  "errorNoTarget": {
+    "message": "لم يتم تحديد حقل قابل للتعديل. انقر بزر الفأرة الأيمن على حقل للإدراج."
+  }
+}

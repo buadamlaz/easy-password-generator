@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "簡易密碼產生器",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "透過可自訂的選項，直接在任何輸入欄位即時產生強大又安全的密碼。",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "產生密碼"
+  },
+  "panelTitle": {
+    "message": "簡易密碼產生器"
+  },
+  "generatedPassword": {
+    "message": "產生的密碼"
+  },
+  "passwordLength": {
+    "message": "密碼長度"
+  },
+  "characterOptions": {
+    "message": "字元選項"
+  },
+  "uppercase": {
+    "message": "大寫字母 (A–Z)"
+  },
+  "lowercase": {
+    "message": "小寫字母 (a–z)"
+  },
+  "numbers": {
+    "message": "數字 (0–9)"
+  },
+  "symbols": {
+    "message": "特殊字元 (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "排除易混淆字元 (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "重新產生"
+  },
+  "copy": {
+    "message": "複製"
+  },
+  "showHide": {
+    "message": "顯示或隱藏密碼"
+  },
+  "insertPassword": {
+    "message": "插入密碼"
+  },
+  "close": {
+    "message": "關閉"
+  },
+  "copied": {
+    "message": "已複製！"
+  },
+  "copyFailed": {
+    "message": "複製失敗"
+  },
+  "strengthVeryWeak": {
+    "message": "非常弱"
+  },
+  "strengthWeak": {
+    "message": "弱"
+  },
+  "strengthFair": {
+    "message": "普通"
+  },
+  "strengthStrong": {
+    "message": "強"
+  },
+  "strengthVeryStrong": {
+    "message": "非常強"
+  },
+  "errorNoCategory": {
+    "message": "請至少選擇一種字元類型。"
+  },
+  "errorLengthShort": {
+    "message": "請增加長度以容納所有所選類型。"
+  },
+  "errorLength": {
+    "message": "長度必須介於 4 到 128 之間。"
+  },
+  "errorGeneric": {
+    "message": "無法產生密碼。"
+  },
+  "errorInsert": {
+    "message": "目標欄位已無法使用。"
+  },
+  "errorNoTarget": {
+    "message": "未選擇可編輯的欄位。請在欄位上按右鍵以插入。"
+  }
+}

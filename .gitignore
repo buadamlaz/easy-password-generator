@@ -1,0 +1,18 @@
+# Local-only — never published to the repo
+node_modules/
+tests/
+package.json
+package-lock.json
+assets/App-icon.png
+store/
+STORE.md
+Promp.md
+
+# Build artifacts (attached to GitHub Releases instead)
+*.zip
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log

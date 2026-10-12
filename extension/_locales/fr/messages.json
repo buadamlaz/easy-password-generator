@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Générateur de mots de passe facile",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Générez instantanément des mots de passe forts et sécurisés avec des options personnalisables, directement depuis n’importe quel champ de saisie.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Générer un mot de passe"
+  },
+  "panelTitle": {
+    "message": "Générateur de mots de passe facile"
+  },
+  "generatedPassword": {
+    "message": "Mot de passe généré"
+  },
+  "passwordLength": {
+    "message": "Longueur du mot de passe"
+  },
+  "characterOptions": {
+    "message": "Options de caractères"
+  },
+  "uppercase": {
+    "message": "Majuscules (A–Z)"
+  },
+  "lowercase": {
+    "message": "Minuscules (a–z)"
+  },
+  "numbers": {
+    "message": "Chiffres (0–9)"
+  },
+  "symbols": {
+    "message": "Spéciaux (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Exclure les ambigus (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Régénérer"
+  },
+  "copy": {
+    "message": "Copier"
+  },
+  "showHide": {
+    "message": "Afficher ou masquer le mot de passe"
+  },
+  "insertPassword": {
+    "message": "Insérer le mot de passe"
+  },
+  "close": {
+    "message": "Fermer"
+  },
+  "copied": {
+    "message": "Copié !"
+  },
+  "copyFailed": {
+    "message": "Échec de la copie"
+  },
+  "strengthVeryWeak": {
+    "message": "Très faible"
+  },
+  "strengthWeak": {
+    "message": "Faible"
+  },
+  "strengthFair": {
+    "message": "Moyen"
+  },
+  "strengthStrong": {
+    "message": "Fort"
+  },
+  "strengthVeryStrong": {
+    "message": "Très fort"
+  },
+  "errorNoCategory": {
+    "message": "Sélectionnez au moins un type de caractère."
+  },
+  "errorLengthShort": {
+    "message": "Augmentez la longueur pour inclure tous les types sélectionnés."
+  },
+  "errorLength": {
+    "message": "La longueur doit être comprise entre 4 et 128."
+  },
+  "errorGeneric": {
+    "message": "Impossible de générer un mot de passe."
+  },
+  "errorInsert": {
+    "message": "Le champ cible n’est plus disponible."
+  },
+  "errorNoTarget": {
+    "message": "Aucun champ modifiable sélectionné. Faites un clic droit sur un champ pour insérer."
+  }
+}

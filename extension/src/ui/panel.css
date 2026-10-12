@@ -1,0 +1,269 @@
+/*
+ * Panel styles — injected into the Shadow DOM, so selectors are scoped and
+ * page CSS cannot reach them. :host resets inherited page styles.
+ */
+
+:host {
+  all: initial;
+}
+
+.cpg-panel {
+  /* design tokens (light) */
+  --cpg-bg: #ffffff;
+  --cpg-fg: #1f2328;
+  --cpg-muted: #6b7280;
+  --cpg-border: #e5e7eb;
+  --cpg-surface: #f6f7f9;
+  --cpg-accent: #4f46e5;
+  --cpg-accent-fg: #ffffff;
+  --cpg-shadow: 0 10px 30px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(0, 0, 0, 0.08);
+  --cpg-radius: 14px;
+
+  position: fixed;
+  width: 360px;
+  max-width: calc(100vw - 16px);
+  box-sizing: border-box;
+  padding: 14px;
+  background: var(--cpg-bg);
+  color: var(--cpg-fg);
+  border: 1px solid var(--cpg-border);
+  border-radius: var(--cpg-radius);
+  box-shadow: var(--cpg-shadow);
+  pointer-events: auto; /* host disables pointer events; re-enable on the panel */
+  font: 13px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  animation: cpg-in 120ms ease-out;
+}
+
+@keyframes cpg-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cpg-panel { animation: none; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .cpg-panel {
+    --cpg-bg: #1b1d22;
+    --cpg-fg: #e6e7ea;
+    --cpg-muted: #9aa0a8;
+    --cpg-border: #33363d;
+    --cpg-surface: #24272d;
+    --cpg-accent: #7c75ff;
+    --cpg-accent-fg: #0b0b0f;
+    --cpg-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 2px 8px rgba(0, 0, 0, 0.4);
+  }
+}
+
+.cpg-panel * { box-sizing: border-box; }
+
+.cpg-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  cursor: grab;
+  user-select: none;
+  touch-action: none; /* allow dragging by touch without scrolling the page */
+}
+.cpg-header:active { cursor: grabbing; }
+/* The close button keeps a normal pointer and isn't a drag handle. */
+.cpg-close { cursor: pointer; }
+.cpg-logo {
+  width: 18px;
+  height: 18px;
+  display: block;
+  flex: 0 0 auto;
+  border-radius: 4px;
+}
+.cpg-title {
+  flex: 1;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.cpg-field-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--cpg-muted);
+  margin-bottom: 6px;
+}
+
+.cpg-output-row {
+  display: flex;
+  gap: 6px;
+  align-items: stretch;
+}
+.cpg-output {
+  flex: 1;
+  min-width: 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  padding: 9px 10px;
+  color: var(--cpg-fg);
+  background: var(--cpg-surface);
+  border: 1px solid var(--cpg-border);
+  border-radius: 9px;
+}
+
+.cpg-icon-btn {
+  flex: 0 0 auto;
+  width: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  line-height: 1;
+  color: var(--cpg-fg);
+  background: var(--cpg-surface);
+  border: 1px solid var(--cpg-border);
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease;
+}
+.cpg-icon-btn:hover { background: var(--cpg-border); }
+.cpg-close { margin-left: 0; width: 28px; height: 28px; font-size: 13px; }
+
+.cpg-strength { margin: 12px 0; }
+.cpg-strength-track {
+  height: 6px;
+  width: 100%;
+  background: var(--cpg-surface);
+  border: 1px solid var(--cpg-border);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.cpg-strength-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: 999px;
+  transition: width 160ms ease, background 160ms ease;
+}
+.cpg-strength-label {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.cpg-length-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 8px;
+}
+.cpg-length-row .cpg-field-label { margin-bottom: 0; }
+.cpg-length-num {
+  width: 64px;
+  text-align: center;
+  padding: 6px 8px;
+  font-size: 13px;
+  color: var(--cpg-fg);
+  background: var(--cpg-surface);
+  border: 1px solid var(--cpg-border);
+  border-radius: 8px;
+}
+
+.cpg-slider {
+  width: 100%;
+  margin: 8px 0 4px;
+  accent-color: var(--cpg-accent);
+  cursor: pointer;
+}
+
+.cpg-options-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+  padding: 4px 2px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--cpg-accent);
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.cpg-options-toggle:hover { opacity: 0.8; }
+.cpg-caret {
+  display: inline-block;
+  font-size: 10px;
+  transition: transform 120ms ease;
+}
+.cpg-options-toggle[aria-expanded="true"] .cpg-caret { transform: rotate(90deg); }
+/* In RTL, the collapsed caret should point left. */
+.cpg-panel[dir="rtl"] .cpg-options-toggle[aria-expanded="false"] .cpg-caret { transform: scaleX(-1); }
+
+.cpg-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 12px;
+  margin: 8px 0 2px;
+  padding: 0;
+  border: 0;
+}
+/* Author display:grid outranks the UA [hidden] rule, so hide explicitly. */
+.cpg-options[hidden] { display: none; }
+.cpg-check {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.cpg-check input { accent-color: var(--cpg-accent); width: 15px; height: 15px; }
+
+.cpg-error {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: #e5484d;
+}
+
+.cpg-insert {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--cpg-accent-fg);
+  background: var(--cpg-accent);
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: filter 120ms ease;
+}
+.cpg-insert:hover { filter: brightness(1.07); }
+
+.cpg-toast {
+  margin-top: 8px;
+  padding: 7px 10px;
+  font-size: 12px;
+  text-align: center;
+  color: var(--cpg-fg);
+  background: var(--cpg-surface);
+  border: 1px solid var(--cpg-border);
+  border-radius: 8px;
+}
+
+.cpg-visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+  white-space: nowrap; border: 0;
+}
+
+/* Visible focus states for keyboard navigation. */
+.cpg-panel :focus-visible {
+  outline: 2px solid var(--cpg-accent);
+  outline-offset: 2px;
+}

@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "سازندهٔ آسان رمز عبور",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "با گزینه‌های قابل‌سفارشی‌سازی، بی‌درنگ از هر فیلد ورودی رمزهای عبور قوی و امن بسازید.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "ساخت رمز عبور"
+  },
+  "panelTitle": {
+    "message": "سازندهٔ آسان رمز عبور"
+  },
+  "generatedPassword": {
+    "message": "رمز عبور ساخته‌شده"
+  },
+  "passwordLength": {
+    "message": "طول رمز عبور"
+  },
+  "characterOptions": {
+    "message": "گزینه‌های نویسه"
+  },
+  "uppercase": {
+    "message": "حروف بزرگ (A–Z)"
+  },
+  "lowercase": {
+    "message": "حروف کوچک (a–z)"
+  },
+  "numbers": {
+    "message": "اعداد (0–9)"
+  },
+  "symbols": {
+    "message": "نویسه‌های ویژه (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "حذف نویسه‌های مبهم (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "ساخت دوباره"
+  },
+  "copy": {
+    "message": "کپی"
+  },
+  "showHide": {
+    "message": "نمایش یا پنهان‌کردن رمز عبور"
+  },
+  "insertPassword": {
+    "message": "درج رمز عبور"
+  },
+  "close": {
+    "message": "بستن"
+  },
+  "copied": {
+    "message": "کپی شد!"
+  },
+  "copyFailed": {
+    "message": "کپی ناموفق بود"
+  },
+  "strengthVeryWeak": {
+    "message": "بسیار ضعیف"
+  },
+  "strengthWeak": {
+    "message": "ضعیف"
+  },
+  "strengthFair": {
+    "message": "متوسط"
+  },
+  "strengthStrong": {
+    "message": "قوی"
+  },
+  "strengthVeryStrong": {
+    "message": "بسیار قوی"
+  },
+  "errorNoCategory": {
+    "message": "دست‌کم یک نوع نویسه را انتخاب کنید."
+  },
+  "errorLengthShort": {
+    "message": "طول را افزایش دهید تا همهٔ انواع انتخاب‌شده جا شوند."
+  },
+  "errorLength": {
+    "message": "طول باید بین ۴ تا ۱۲۸ باشد."
+  },
+  "errorGeneric": {
+    "message": "ساخت رمز عبور ممکن نشد."
+  },
+  "errorInsert": {
+    "message": "فیلد مقصد دیگر در دسترس نیست."
+  },
+  "errorNoTarget": {
+    "message": "هیچ فیلد قابل‌ویرایشی انتخاب نشده است. برای درج، روی یک فیلد راست‌کلیک کنید."
+  }
+}

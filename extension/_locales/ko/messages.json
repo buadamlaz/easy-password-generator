@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "간편 비밀번호 생성기",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "사용자 지정 옵션으로 어떤 입력 필드에서든 강력하고 안전한 비밀번호를 즉시 생성하세요.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "비밀번호 생성"
+  },
+  "panelTitle": {
+    "message": "간편 비밀번호 생성기"
+  },
+  "generatedPassword": {
+    "message": "생성된 비밀번호"
+  },
+  "passwordLength": {
+    "message": "비밀번호 길이"
+  },
+  "characterOptions": {
+    "message": "문자 옵션"
+  },
+  "uppercase": {
+    "message": "대문자 (A–Z)"
+  },
+  "lowercase": {
+    "message": "소문자 (a–z)"
+  },
+  "numbers": {
+    "message": "숫자 (0–9)"
+  },
+  "symbols": {
+    "message": "특수문자 (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "혼동되는 문자 제외 (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "다시 생성"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "showHide": {
+    "message": "비밀번호 표시 또는 숨기기"
+  },
+  "insertPassword": {
+    "message": "비밀번호 삽입"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "copied": {
+    "message": "복사됨!"
+  },
+  "copyFailed": {
+    "message": "복사 실패"
+  },
+  "strengthVeryWeak": {
+    "message": "매우 약함"
+  },
+  "strengthWeak": {
+    "message": "약함"
+  },
+  "strengthFair": {
+    "message": "보통"
+  },
+  "strengthStrong": {
+    "message": "강함"
+  },
+  "strengthVeryStrong": {
+    "message": "매우 강함"
+  },
+  "errorNoCategory": {
+    "message": "하나 이상의 문자 유형을 선택하세요."
+  },
+  "errorLengthShort": {
+    "message": "선택한 모든 유형을 포함하도록 길이를 늘리세요."
+  },
+  "errorLength": {
+    "message": "길이는 4에서 128 사이여야 합니다."
+  },
+  "errorGeneric": {
+    "message": "비밀번호를 생성할 수 없습니다."
+  },
+  "errorInsert": {
+    "message": "대상 필드를 더 이상 사용할 수 없습니다."
+  },
+  "errorNoTarget": {
+    "message": "선택된 편집 가능한 필드가 없습니다. 삽입하려면 필드를 마우스 오른쪽 버튼으로 클릭하세요."
+  }
+}

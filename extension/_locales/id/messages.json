@@ -1,0 +1,94 @@
+{
+  "extName": {
+    "message": "Pembuat Kata Sandi Mudah",
+    "description": "Extension name (localized)."
+  },
+  "extDescription": {
+    "message": "Buat kata sandi yang kuat dan aman secara instan dengan opsi yang dapat disesuaikan, langsung dari kolom input mana pun.",
+    "description": "Extension description (localized)."
+  },
+  "contextMenuGenerate": {
+    "message": "Buat kata sandi"
+  },
+  "panelTitle": {
+    "message": "Pembuat Kata Sandi Mudah"
+  },
+  "generatedPassword": {
+    "message": "Kata sandi yang dibuat"
+  },
+  "passwordLength": {
+    "message": "Panjang kata sandi"
+  },
+  "characterOptions": {
+    "message": "Opsi karakter"
+  },
+  "uppercase": {
+    "message": "Huruf besar (A–Z)"
+  },
+  "lowercase": {
+    "message": "Huruf kecil (a–z)"
+  },
+  "numbers": {
+    "message": "Angka (0–9)"
+  },
+  "symbols": {
+    "message": "Spesial (!@#$…)"
+  },
+  "excludeAmbiguous": {
+    "message": "Kecualikan karakter ambigu (O 0 I l 1)"
+  },
+  "regenerate": {
+    "message": "Buat ulang"
+  },
+  "copy": {
+    "message": "Salin"
+  },
+  "showHide": {
+    "message": "Tampilkan atau sembunyikan kata sandi"
+  },
+  "insertPassword": {
+    "message": "Sisipkan kata sandi"
+  },
+  "close": {
+    "message": "Tutup"
+  },
+  "copied": {
+    "message": "Tersalin!"
+  },
+  "copyFailed": {
+    "message": "Gagal menyalin"
+  },
+  "strengthVeryWeak": {
+    "message": "Sangat lemah"
+  },
+  "strengthWeak": {
+    "message": "Lemah"
+  },
+  "strengthFair": {
+    "message": "Cukup"
+  },
+  "strengthStrong": {
+    "message": "Kuat"
+  },
+  "strengthVeryStrong": {
+    "message": "Sangat kuat"
+  },
+  "errorNoCategory": {
+    "message": "Pilih setidaknya satu jenis karakter."
+  },
+  "errorLengthShort": {
+    "message": "Tambah panjang agar memuat semua jenis yang dipilih."
+  },
+  "errorLength": {
+    "message": "Panjang harus antara 4 dan 128."
+  },
+  "errorGeneric": {
+    "message": "Tidak dapat membuat kata sandi."
+  },
+  "errorInsert": {
+    "message": "Kolom target tidak lagi tersedia."
+  },
+  "errorNoTarget": {
+    "message": "Tidak ada kolom yang dapat diedit dipilih. Klik kanan sebuah kolom untuk menyisipkan."
+  }
+}
